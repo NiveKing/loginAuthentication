@@ -37,7 +37,7 @@ const Login = () => {
       },[])
 
     return (
-        <div className="bg-primary d-flex justify-content-center align-items-center vh-100">
+        <div className="bg-secondary d-flex justify-content-center align-items-center vh-100">
             <div className="bg-white rounded p-3 w-25">
                 <form onSubmit={handleSubmit}>
                     <div className="mb-3">
